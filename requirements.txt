@@ -2,4 +2,4 @@ fastapi
 uvicorn
 gunicorn
 numpy
-
+tensorflow==2.8.0
